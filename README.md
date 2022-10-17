@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**JerryAuas/JerryAuas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JerryAuas/JerryAuas** is a ✨ _special_ ✨ **
 
 - 🔭 I’m currently working on Jiangsu university
 - 🌱 I’m currently learning deep learning
