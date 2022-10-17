@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**JerryAuas/JerryAuas** is a ✨ _special_ ✨ **
+**JerryAuas** is a ✨ _special_ ✨ 
 
 - 🔭 I’m currently working on Jiangsu university
 - 🌱 I’m currently learning deep learning
