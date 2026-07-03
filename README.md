@@ -3,10 +3,6 @@
 
 **JerryAuas** is a ✨ _special_ ✨ 
 
-- 🔭 I’m currently working on Jiangsu university
-- 🌱 I’m currently learning deep learning
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with how to learn deep learning Convenient！
 - 💬 Ask me about for example yolo svm auto aim and so on!
 - 📫 How to reach me: the e-mail:jerryle896@gmail.com
 - 😄 Pronouns: Jerry
