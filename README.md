@@ -3,7 +3,6 @@
 
 **JerryAuas** is a ✨ _special_ ✨ 
 
-- 💬 Ask me about for example yolo svm auto aim and so on!
 - 📫 How to reach me: the e-mail:jerryle896@gmail.com
 - 😄 Pronouns: Jerry
 - ⚡ Fun fact: you can focus on me is a very happiness things!
